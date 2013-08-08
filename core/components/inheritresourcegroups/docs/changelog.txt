@@ -1,0 +1,5 @@
+Changelog for inheritResourceGroups
+
+inheritResourceGroups 0.1.0
+---------------------------------
+Initial Version
